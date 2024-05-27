@@ -1,0 +1,4 @@
+#This property file will override anything that is resources/.properties!
+test:
+  props:
+    message: "Amar is a legend!!!"
